@@ -1,2 +1,2 @@
-# Smart-Multi-Agent
-This project builds a multi-agent AI system to predict health risks from patient data and automatically generate medical reports in PDF, Word, Excel, and PPT formats. It combines machine learning, agent-based automation, and document generation for real-world healthcare decision support.
+This project implements a smart multi-agent AI system that predicts patient health risks using machine learning and automatically generates medical reports in PDF, Word, Excel, and PowerPoint formats, enabling efficient and intelligent healthcare decision support.
+
